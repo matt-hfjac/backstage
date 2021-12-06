@@ -1,5 +1,17 @@
 # example-backend
 
+## 0.2.56
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-scaffolder-backend@0.15.16
+  - @backstage/plugin-kubernetes-backend@0.4.0
+  - @backstage/plugin-catalog-backend@0.19.1
+  - @backstage/backend-common@0.9.13
+  - @backstage/plugin-techdocs-backend@0.12.0
+  - example-app@0.2.56
+
 ## 0.2.55
 
 ### Patch Changes
